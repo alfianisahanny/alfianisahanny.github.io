@@ -42,7 +42,9 @@ Version: 1.0
 /*================================================== */
 
 /*** Miscellaneous ***/
-
+.hidden {
+  visibility: hidden;
+}
 html {
   overflow-x: hidden;
   height: 100%;
